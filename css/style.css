@@ -4,7 +4,7 @@
     --blue:#2749ae;
     --dark-color:#215b91;
     --black:#444;
-    --light-color:#666;
+    --light-color:rgb(77, 60, 60);
     --border:.1rem solid rgba(0,0,0,.1);
     --border-hover:.1rem solid var(--black);
     --box-shadow:0 .5rem 1rem rgba(0,0,0,.1);
@@ -189,7 +189,7 @@ section{
 .bottom-navbar a{
     font-size: 2.5rem;
     padding:2rem;
-    color:#fff;
+    color:rgba(255, 255, 255, 0.995);
 }
 
 .bottom-navbar a:hover{
@@ -683,7 +683,7 @@ section{
     width: 5rem;
     line-height: 5rem;
     font-size: 2rem;
-    color:#fff;
+    color:rgb(255, 255, 255);
     background:var(--blue);
     margin:0 .3rem;
     border-radius: 50%; 
